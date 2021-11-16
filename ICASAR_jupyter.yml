@@ -1,0 +1,16 @@
+name: ICASAR_jupyter
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python
+  - numpy
+  - spyder=4
+  - matplotlib=3.0.1
+  - scikit-learn=0.20.0
+  - scikit-image
+  - hdbscan=0.8.18
+  - simplekml
+  - h5py
+  - jupyterlab
